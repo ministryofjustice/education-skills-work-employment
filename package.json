@@ -1,8 +1,8 @@
 {
-  "name": "hmpps-template-typescript",
+  "name": "education-skills-work-employment",
   "version": "0.0.1",
-  "description": "HMPPS Typescript Template",
-  "repository": "git@github.com:ministryofjustice/hmpps-template-typescript.git",
+  "description": "Education Skills Work Employment",
+  "repository": "git@github.com:ministryofjustice/education-skills-work-employment.git",
   "license": "MIT",
   "scripts": {
     "prepare": "husky install",
