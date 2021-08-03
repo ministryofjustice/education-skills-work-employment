@@ -3,7 +3,7 @@ generic-service:
   replicaCount: 4
 
   ingress:
-    host: eswe.prison.service.justice.gov.uk
+    host: prisoner-employability.prison.service.justice.gov.uk
 
   env:
     INGRESS_URL: "https://prisoner-employability.prison.service.justice.gov.uk"
