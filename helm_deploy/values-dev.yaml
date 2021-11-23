@@ -6,6 +6,7 @@ generic-service:
 
   ingress:
     host: prisoner-employability-dev.prison.service.justice.gov.uk
+    contextColour: green
 
   env:
     INGRESS_URL: "https://prisoner-employability-dev.prison.service.justice.gov.uk"
